@@ -1,0 +1,101 @@
+body{
+    font-family: montserrat;
+}
+
+#one{
+    background-color: #ff4c68;
+    color: #ffffff;
+}
+
+
+.container-fluid{
+    padding:3% 15%;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+line-height:1;
+padding-bottom: 1rem;
+}
+
+h3{
+    font-family: 'montserrat-bold';
+    font-size: 1.5rem;
+    padding: 3%;
+}
+
+h2{
+    font-family:'montserrat-bold' ;
+    font-size: 3rem;
+    font-weight: 1000;
+}
+
+p{
+    color: #8f8f8f;
+}
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem
+}
+
+.dwbtn{
+    margin-right:3rem;
+    margin-left:0;
+    margin-top:1rem;
+}
+
+.title-img{
+    width:60%;
+    transform:rotate(15deg);
+    position: absolute;
+    right: 5%;
+}
+
+#two{
+    padding:  3rem;
+    background-color:#ffffff;
+    position: relative;
+    z-index: 1;
+}
+
+.box{
+    text-align: center;
+padding: 10%;
+}
+
+.icon{
+    color: #ef8172;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testinomial{
+    background-color: #ef8172;
+    color: #ffffff;
+    padding: 5% 8%;
+    text-align: center;
+}
+
+.testimg{
+    border-radius: 100%;
+}
+
+#press{
+    padding: 5% 10%;
+    background-color: #ef8172;
+}
+.preimg{
+    padding: 0 5% 0 0;
+    height: 100px;
+    width: auto;
+}
